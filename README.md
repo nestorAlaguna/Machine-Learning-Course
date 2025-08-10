@@ -89,4 +89,4 @@ Aligned with research at **Aston Institute of Photonic Technologies**, including
 ---
 
 > ℹ️ *This module was part of the Erasmus Mundus Joint Master’s Programme (SMARNET).*  
-> 📅 **Academic Year:** 2019–2020 | 🏛 **University:** [Aston University](https://www.aston.ac.uk)  
+> 📅 **Academic Year:** 2020–2021 | 🏛 **University:** [Aston University](https://www.aston.ac.uk)  

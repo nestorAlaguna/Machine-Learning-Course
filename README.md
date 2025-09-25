@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Module Overview
+## Module Overview
 **Title:** Machine Learning (EE4108)  
 **Level:** Masters  
 **Credits:** 15 (7.5 ECTS)  
@@ -22,8 +22,8 @@
 
 ---
 
-## 📚 Module Content
-### 📖 Topics Covered
+## Module Content
+###  Topics Covered
 1. Introduction to ML & Probability Theory  
 2. **Mathematical Derivations** (Assignments 1–2)  
 3. **Coding Implementations** (Assignments 3–5):  
@@ -32,7 +32,7 @@
    - Neural Networks (Backpropagation)  
    - Adaptive Algorithms (Robbins-Munro, APA, NLMS, RLS)  
 
-### 🎯 Learning Outcomes
+## Learning Outcomes
 ✔ **Theory:** Systematic understanding of ML techniques for telecom problems  
 ✔ **Research:** Critical awareness of current ML challenges  
 ✔ **Practice:** Implemented classification problems and optimization algorithms  
@@ -40,7 +40,7 @@
 ---
 
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 EE4108/
 ├── assignment_1/ # Mathematical derivations (PDF)

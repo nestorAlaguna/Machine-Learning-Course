@@ -64,25 +64,20 @@ EE4108/
 
 **Submission:** Electronic only (via Aston VLE).  
 
----
-
-## 💡 Support & Feedback
-For **errors**, **feedback**, or **clarifications**, contact:  
-📧 [nesandovala@gmail.com](mailto:nesandovala@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nestoralaguna)  
+ 
 
 *1-on-1 guidance was provided by Prof. Sygletos during the course.*  
 
 ---
 
-## 🔗 Research Connections
+##  Research Connections
 Aligned with research at **Aston Institute of Photonic Technologies**, including:  
 - ML for non-linear signal equalization  
 - Network routing optimization  
 
 ---
 
-## 📜 Ethical Notes
+##  Ethical Notes
 - Discusses social impact of ML in telecom (5G, optical networks).  
 - No corporate partnerships or ethical approval required.  
 

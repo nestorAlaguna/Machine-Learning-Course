@@ -33,9 +33,9 @@
    - Adaptive Algorithms (Robbins-Munro, APA, NLMS, RLS)  
 
 ## Learning Outcomes
-✔ **Theory:** Systematic understanding of ML techniques for telecom problems  
-✔ **Research:** Critical awareness of current ML challenges  
-✔ **Practice:** Implemented classification problems and optimization algorithms  
+**Theory:** Systematic understanding of ML techniques for telecom problems  
+**Research:** Critical awareness of current ML challenges  
+**Practice:** Implemented classification problems and optimization algorithms  
 
 ---
 
@@ -56,7 +56,7 @@ EE4108/
 
 ---
 
-## ⚙️ Assessment
+## Assessment
 | Component          | Type       | Weight | Details                          |
 |--------------------|------------|--------|----------------------------------|
 | **Lab Reports**    | Practical  | 30%    | 4x3hr sessions (formative + summative) |
@@ -83,5 +83,5 @@ Aligned with research at **Aston Institute of Photonic Technologies**, including
 
 ---
 
-> ℹ️ *This module was part of the Erasmus Mundus Joint Master’s Programme (SMARNET).*  
-> 📅 **Academic Year:** 2020–2021 | 🏛 **University:** [Aston University](https://www.aston.ac.uk)  
+> *This module was part of the Erasmus Mundus Joint Master’s Programme (SMARNET).*  
+> **Academic Year:** 2020–2021 | 🏛 **University:** [Aston University](https://www.aston.ac.uk)  
